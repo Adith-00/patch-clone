@@ -1,0 +1,51 @@
+[
+      {
+        "id": 1,
+        "Q1": "What is Rent Tracking?",
+        "A1": "Rent Tracking is a new way of boosting your credit history. We track your rent payments to your landlords or agent. If you pay on time, we report this to the credit reference agency Experian, and they add this information to your credit report.",
+        "Q2": "How does the rent tracking work?",
+        "A2": "It's very easy.",
+        "A2-2": "<li>Sign up to Patch</li>, <li>Connect your bank account</li>, <li>Pay your rent</li>, <li>Patch reports your rent payments to Experian</li>, <li>Your credit history improves</li>",
+        "Q3": "How do I see what you have tracked?",
+        "A3": "You'll start receiving the benefit of Rent Tracking as soon as you sign in. You won't actually be able to view the information in your Experian credit report until around three months after signing up.",
+        "Q4": "How much does rent tracking cost?",
+        "A4": "Our Rent Tracking service is free to use.",
+        "Q5": "How does my Rent Tracking improve my credit history?",
+        "A5": "You'll start receiving the benefit of Rent Tracking as soon as you sign in. You won't actually be able to view the information in your Experian credit report until around three months after signing up.",
+        "Q6": "What if I change property?",
+        "A6": "Not a problem. It's easy to continue Rent Tracking. Log in to your Patch account after you make your last rent payment to your old property and let us know about your new place."
+      },
+      {
+        "id": 2,
+        "Q1": "What do I need to pay a deposit?",
+        "A1": "Typically, deposits, such as security deposits, are separate financial transactions from rent payments. They are held by landlords or property management companies as a form of security against potential damages or unpaid rent. The treatment of deposits may vary depending on local laws and lease agreements.",
+        "Q2": "How to know my current deposit after adding a new deposit?",
+        "A2": "It's very easy.",
+        "A2-2": "<li>Sign up to Patch</li>, <li>Open profile section</li>, <li>Select My Deposits</li>, <li>There you can see your current deposits</li>",
+        "Q3": "How will my new deposit affect Rent tracking?",
+        "A3": "Your new deposit may not directly affect rent tracking, as rent tracking primarily focuses on monitoring and reporting your rental payment history to credit reference agencies like Experian. However, your new deposit could indirectly impact your creditworthiness and financial stability, which may influence your credit history in the long run.",
+        "Q4": "How can I add a new deposit to my rent tracking account?",
+        "A4": "To add a new deposit to your rent tracking account, you need to log in to your Patch account and follow the provided instructions.",
+        "Q5": "What information is required to add a new deposit to my rent tracking account with Patch?",
+        "A5": "To add a new deposit, you may need to provide details about your new rental property, such as the landlord's information, the property address, and your new lease terms.",
+        "Q6": "What benefits can I expect from adding a new deposit and maintaining on-time rent payments through rent tracking?",
+        "A6": "Adding a new deposit and consistently making on-time rent payments can help build a positive credit history, making it easier for you to qualify for loans, credit cards, and other financial opportunities in the future. It can also potentially lead to lower interest rates and better financial terms."
+      },
+      {
+        "id": 3,
+        "Q1": "Can rent tracking services like Patch help me get my existing rental deposit back faster?",
+        "A1": "Rent tracking services like Patch primarily focus on reporting your on-time rent payments to credit bureaus, which can improve your credit history. They do not directly impact the return of your existing rental deposit.",
+        "Q2": "What can I do if my existing deposit is not returned on time?",
+        "A2": "If your existing deposit is not returned on time, you can take the following steps:",
+        "A2-2": "<li>Contact your landlord or property management to inquire about the delay.</li>, <li>Refer to your lease agreement to understand the terms and timelines for deposit returns.</li>, <li>If communication with the landlord is ineffective, you may need to escalate the issue through legal means, such as small claims court, depending on your local laws.</li>",
+        "Q3": "Does a good credit history, improved through rent tracking, affect the return of my existing deposit?",
+        "A3": "While a good credit history can benefit you in various financial aspects, it may not have a direct impact on the return of your existing rental deposit. Deposit returns are typically governed by the terms of your lease agreement and local rental laws.",
+        "Q4": "Does rent tracking affect the return of a security deposit if I've had issues with late rent payments in the past?",
+        "A4": "Rent tracking primarily focuses on reporting on-time rent payments, which can positively impact your credit history. If you've had issues with late rent payments in the past, it's essential to address those concerns directly with your landlord. The return of your security deposit depends on your lease terms and the resolution of any outstanding rent issues.",
+        "Q5": "Will my improved credit history, thanks to rent tracking, make it easier to find a new rental property?",
+        "A5": "While an improved credit history can be beneficial in the rental application process, it doesn't directly influence the return of your existing deposit. However, a good credit history can help you secure a new rental property as it demonstrates responsible financial behavior.",
+        "Q6": "Is there any connection between a positive rental payment history through rent tracking and the likelihood of receiving a refund on my existing deposit?",
+        "A6": "A positive rental payment history through rent tracking can indirectly affect your relationship with your landlord or property management. If you consistently pay your rent on time and fulfill your lease obligations, it may improve your standing with them and increase the likelihood of receiving a prompt deposit refund. However, the return of the deposit is more directly tied to your lease terms and local rental laws."
+      }
+    ]
+    
